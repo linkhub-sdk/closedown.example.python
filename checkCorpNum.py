@@ -16,7 +16,7 @@ try:
     print("휴폐업조회 - 단건")
     
     # 사업자번호 
-    corpNum = "4108600477"
+    corpNum = "1234567890"
 
     corpState = closedownChecker.checkCorpNum(corpNum)
 
